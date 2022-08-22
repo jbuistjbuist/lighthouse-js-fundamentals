@@ -12,3 +12,4 @@ function whichSchool (a) {
 }
 
 console.log(whichSchool(age))
+
